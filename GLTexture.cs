@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using OpenTK.Graphics.OpenGL4;
 
-namespace OpenOOP.Objects
+namespace OpenOOP
 {
     /// <summary>
     /// Represents a <see cref="GLObject"/> wrapper around OpenGL Textures

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Runtime.Serialization;
 
-namespace OpenOOP.Objects
+namespace OpenOOP
 {
     /// <summary>
     /// Base class for all OpenGL Objects

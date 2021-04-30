@@ -1,7 +1,7 @@
 ﻿using System;
 using OpenTK.Graphics.OpenGL4;
 
-namespace OpenOOP.Objects.Buffers
+namespace OpenOOP.Buffers
 {
     /// <summary>
     /// Represents a <see cref="GLObject"/> wrapper around OpenGL VertexArrays

@@ -1,7 +1,7 @@
 ﻿using System;
 using OpenTK.Graphics.OpenGL4;
 
-namespace OpenOOP.Objects.Buffers
+namespace OpenOOP.Buffers
 {
     /// <summary>
     /// Wrapper around the <see cref="GLBuffer"/> using the <see cref="BufferTarget.ArrayBuffer"/> target

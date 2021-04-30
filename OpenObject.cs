@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OpenOOP.Objects.Buffers
+namespace OpenOOP.Buffers
 {
     /// <summary>
     /// Utility class used for OpenGL Objects using factories and actions to handle it's creation and destruction

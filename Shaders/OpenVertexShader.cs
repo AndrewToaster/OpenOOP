@@ -1,7 +1,7 @@
 ﻿using System;
 using OpenTK.Graphics.OpenGL4;
 
-namespace OpenOOP.Objects.Shaders
+namespace OpenOOP.Shaders
 {
     /// <summary>
     /// Represents a <see cref="GLShader"/> wrapper around the <see cref="ShaderType.VertexShader"/>
