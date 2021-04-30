@@ -8,7 +8,13 @@
     <SignAssembly>false</SignAssembly>
     <DelaySign>false</DelaySign>
     <AssemblyOriginatorKeyFile>OpenOOPKey.pfx</AssemblyOriginatorKeyFile>
-    <PackageLicenseExpression>mit</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>Source</RepositoryType>
+    <RepositoryUrl>https://github.com/AndrewToaster/OpenOOP</RepositoryUrl>
+    <PackageTags>c#,opengl,opentk,oop</PackageTags>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <Version>1.0.1</Version>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
