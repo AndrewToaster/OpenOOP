@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using OpenTK.Core.Native;
 using OpenTK.Graphics.OpenGL4;
 
 namespace OpenOOP
